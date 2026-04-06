@@ -1,0 +1,1 @@
+{"name":"H2-Node","image":"mcr.microsoft.com/devcontainers/base:ubuntu","postCreateCommand":"bash .devcontainer/setup.sh","forwardPorts":[5000],"portsAttributes":{"5000":{"label":"API","visibility":"public"}}}
